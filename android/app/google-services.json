@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025702632269",
+    "firebase_url": "https://react-native-test-70ba0.firebaseio.com",
+    "project_id": "react-native-test-70ba0",
+    "storage_bucket": "react-native-test-70ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025702632269:android:722a7783a8b3e37bed7504",
+        "android_client_info": {
+          "package_name": "com.awsomenativeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025702632269-t4tqg7bffo0vdbhkfodldcc3fcqupgm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNvgEDXt_H0ThyFnd-asV_BWrfFLzZC-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025702632269-t4tqg7bffo0vdbhkfodldcc3fcqupgm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
